@@ -1,6 +1,6 @@
 ---
-title: "factorial anova ch13"
-author: '2610922'
+title: "factorial anova"
+author: 'Madeline Lui'
 date: '2022-03-17'
 output: html_document
 ---
